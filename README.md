@@ -1,6 +1,6 @@
 # Imersao-IA-Alura-Google-2ed
 
-Este é um assistente bastante simples cujo prpósito é criar sequências aleatórias de acordes para uma música, e foi pensado apenas para dar algumas sugestões com base em parâmetros pré-definidos ou informados pelo usuário de acordo com suas preferências, podendo servir como um ponto de partida para a criação de composições musicais.
+Este é um assistente bastante simples cujo propósito é criar sequências aleatórias de acordes para uma música, e foi pensado apenas para dar algumas sugestões com base em parâmetros pré-definidos ou informados pelo usuário de acordo com suas preferências, podendo servir como um ponto de partida para composições musicais.
 
 Foi escrito em Python através do Google Colab e se utiliza do LLM gemini-1.0-pro.
 
