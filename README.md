@@ -4,4 +4,4 @@ Este é um assistente bastante simples cujo prpósito é criar sequências aleat
 
 Foi escrito em Python através do Google Colab e se utiliza do LLM gemini-1.0-pro.
 
-Agradeço aos professores que inspiraram a criação deste chatbot ao através da 2a edição da Imersão em IA da Alura em parceria com o Google, 
+Agradeço aos professores que inspiraram a criação deste chatbot através da 2a edição da Imersão em IA da Alura em parceria com o Google, Ana Raquel Cunha (Professora na FIAP), Fabrício Carraro (Program Manager na Alura), Luciano Martins (Developer Advocate no Google) e Paulo Silveira (CEO da Alura).
